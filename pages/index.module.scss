@@ -1,0 +1,20 @@
+
+.fileInput {
+  display: none;
+}
+
+.preview {
+  height: 300px;
+  width: 300px;
+  position: fixed;
+  right: 8px;
+  top: 8px;
+}
+
+.imageList {
+  .row {
+    img {
+      height: 100px;
+    }
+  }
+}
